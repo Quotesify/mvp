@@ -26,7 +26,7 @@ router.post('/', (req, res, next) => {
      const mailOptions = {
          from: name,
          // set to user input
-         to: username,
+         to: process.env.YOUR_EMAIL_ADDRESS,
          subject: `Message from ${name}`,
          text: content
      }
