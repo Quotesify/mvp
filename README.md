@@ -1,6 +1,8 @@
 # Quotesify
 This is a tool that helps insurance companies, brokers, and employers do business with one another. This app will manage employee data securely and simplify the process for employers to apply for health insurance packages.
 
+> See the live demo by [clicking here.](https://www.youtube.com/watch?v=6BwHSWj0i14&feature=youtu.be)
+
 ## Built With
 
 * Node
